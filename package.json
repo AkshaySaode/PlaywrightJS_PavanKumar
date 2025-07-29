@@ -1,0 +1,14 @@
+{
+  "name": "playwrightjs_pavankumar",
+  "version": "1.0.0",
+  "description": "A code repo for Playwright with JavaScript at you tube channel Pavan Kumar",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.1.0"
+  }
+}
